@@ -1,6 +1,6 @@
 # One Flew Over the Unicorn's forest (JS13k 2026)
 
-!\[One Flew Over the Unicorn's forest - Zurgah's game](/Screenshot.png)
+!\[One Flew Over the Unicorn's forest - Zurgah's game](https://github.com/Zurgah/One-Flew-Over-the-Unicorn-s-forest-JS13k-/blob/main/Screenshot.png?raw=true)
 
 
 

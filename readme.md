@@ -8,7 +8,7 @@ Control the flight with energy. Collect rainbows to refill the energy scale.
 
 ---
 
-Game controls: `any key`
+Game controls: `any key`.
 But the power button :)
 
 ---

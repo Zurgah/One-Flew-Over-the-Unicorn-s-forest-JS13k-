@@ -4,21 +4,21 @@
 
 A game about a unicorn flying through the sky.
 Collect as many points as possible and fly as far as possible.
-Control the flight with energy. Collect rainbows to refill the energy scale.
+Control the flight with energy. Collect rainbows to refill your energy bar.
 
 ---
 
-Game controls: `any key`.
-But the power button :)
+Game controls: `any key`.  
+Just not the power button :)
 
 ---
 
 The game also features:
 * Procedurally generated endless world
 * Custom sound synthesizer
-* Smooth difficulty scale
+* Smooth difficulty curve
 
-Enjoy the game!
+Enjoy the game!🦄🌈
 
 P.S. An extended version is planned for itch.io :)
 

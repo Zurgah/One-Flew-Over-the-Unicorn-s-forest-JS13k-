@@ -5,6 +5,7 @@
 A game about a unicorn flying through the sky.
 Collect as many points as possible and fly as far as possible.
 Control the flight with energy. Collect rainbows to refill the energy scale.
+
 ---
 
 Game controls: `any key`

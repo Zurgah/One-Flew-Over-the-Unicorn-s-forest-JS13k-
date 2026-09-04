@@ -2,21 +2,22 @@
 
 ![One Flew Over the Unicorn's forest - Zurgah's game](Screenshot.png)
 
+A game about a unicorn flying through the sky.
+Collect as many points as possible and fly as far as possible.
+Control the flight with energy. Collect rainbows to refill the energy scale.
+---
 
+Game controls: `any key`
+But the power button :)
 
-A JavaScript game about a unicorn flying through the sky.
+---
 
-Game controls: any key.
+The game also features:
+* Procedurally generated endless world
+* Custom sound synthesizer
+* Smooth difficulty scale
 
+Enjoy the game!
 
-
-No external dependencies are required to run.
-
-All resources are included in the code.
-
-Recommended running in Chrome browser.
-
-
-
-An extended version is planned for itch.io :)
+P.S. An extended version is planned for itch.io :)
 
